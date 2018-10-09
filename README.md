@@ -1,4 +1,7 @@
 # webpack-typescript-starter
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SimonSiefke/webpack-typescript-starter.svg)](https://greenkeeper.io/)
+
 > A simple starter template with webpack and typescript
 
 ## Quickstart:
